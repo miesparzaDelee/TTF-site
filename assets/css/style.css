@@ -1169,4 +1169,9 @@ section {
   #footer .credits {
     padding-top: 4px;
   }
+
+    .boxicon {
+      font-family: "boxicons";
+    }
+
 }
